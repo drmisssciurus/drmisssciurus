@@ -34,24 +34,6 @@
 
 ###
 
-### Snake Game 🐍
-
-![Snake animation](https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/snake.svg)
-
-### Snake Game 🐍
-
-<img src="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/snake.svg" width="800" height="400" alt="Snake animation">
+<img src="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/github-snake.svg" alt="Snake animation GIF" width="1000" height="400">
 
 ###
-
-### Snake Game 🐍
-
-**Light Theme:**
-<img src="https://github.com/drmisssciurus/drmisssciurus/raw/output/dist/github-snake.svg" alt="Snake animation" width="800" height="400">
-
-**Dark Theme:**
-<img src="https://github.com/drmisssciurus/drmisssciurus/raw/output/dist/github-snake-dark.svg" alt="Snake animation dark" width="800" height="400">
-
-**GIF Version:**
-<img src="https://github.com/drmisssciurus/drmisssciurus/raw/output/dist/ocean.gif" alt="Snake animation GIF" width="800" height="400">
-
