@@ -9,19 +9,24 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Allows the workflow to push changes
+      contents: write
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
       - name: Generate Snake Game
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
-          github_user_name: drmisssciurus # Replace with your GitHub username
-          svg_out_path: dist/snake.svg
+          # Using the current repository owner for the contribution graph
+          github_user_name: ${{ github.repository_owner }}
+          # Specify outputs and customize appearance
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update Snake Game"
-          file_pattern: dist/snake.svg
+          file_pattern: dist/*
