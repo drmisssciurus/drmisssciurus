@@ -19,6 +19,8 @@ jobs:
         with:
           github_user_name: drmisssciurus # Replace with your GitHub username
           svg_out_path: dist/snake.svg
+           options: >
+              --size 20 # Adjust the grid size (e.g., 20 for larger visuals)
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
