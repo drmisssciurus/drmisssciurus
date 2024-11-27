@@ -38,5 +38,8 @@
 
 ![Snake animation](https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/snake.svg)
 
+### Snake Game 🐍
+
+<img src="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/snake.svg" width="800" height="400" alt="Snake animation">
 
 ###
