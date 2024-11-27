@@ -36,7 +36,7 @@
 
 ### Snake Game 🐍
 
-![Snake animation](https://github.com/drmisssciurus/drmisssciurus/blob/output/dist/snake.svg)
+![Snake animation](https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/snake.svg)
 
 
 ###
