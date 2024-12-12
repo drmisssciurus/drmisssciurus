@@ -10,6 +10,7 @@
   </a>
 </div>
 
+<!-- Tools Section -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">  </a> 
@@ -33,28 +34,21 @@
   </a> 
 </p>
 
-<p  align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drmisssciurus" alt="GitHub Streak Stats (currently unavailable)"  />
-</p>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drmisssciurus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- Streak stats Section -->
+  <p >
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=drmisssciurus">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=drmisssciurus" alt="GitHub Streak Stats" height="150"/>
+    </a>
+    <img src="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/meme.png" alt="Fallback Image" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drmisssciurus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </p>
 </div>
 
-###
-
-<!--
-<img src="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/github-snake.svg" alt="Snake animation GIF" width="1000" height="400">
-<img src="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/github-snake-dark.svg" alt="Snake animation GIF" width="1000" height="400">
--->
-
+<!-- Snake Section -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/github-snake.svg" />
   <img src="https://github.com/drmisssciurus/drmisssciurus/blob/main/dist/github-snake.svg" alt="Snake animation GIF" width="1000" height="400">
 </picture>
-
-
-###
