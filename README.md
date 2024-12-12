@@ -34,7 +34,7 @@
 </p>
 
 <p  align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drmisssciurus" alt="drmisssciurus" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drmisssciurus" alt="GitHub Streak Stats (currently unavailable)"  />
 </p>
 
 ###
