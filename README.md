@@ -1,6 +1,5 @@
 <h1 align="center">Hello There, I'm Alina nice to meet you on my GitHub page!</h1>
-<h3 align="center">I'm frontend developer from Israel!</h3>
-<p align="center"> 💬 You can ask me about **anything**!  📫 How to reach me:</p>
+<p align="center"> I'm frontend developer! 💬 You can ask me about **anything**!  📫 How to reach me:</p>
 <div align="center">
   <a href="mailto:levinad992@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />  
